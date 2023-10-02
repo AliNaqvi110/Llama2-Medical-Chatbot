@@ -15,10 +15,7 @@
  <p>To install the MultiPDF Chat App, please follow these steps:</p>
 1. Clone the repository to your local machine.
      
-    ```
     git clone https://github.com/AliNaqvi110/Llama2-Medical-Chatbot.git
-    ```
-
 
 2. Install the required dependencies by running the following command:
 
